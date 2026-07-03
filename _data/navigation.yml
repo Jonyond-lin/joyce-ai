@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/joyce-ai/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/joyce-ai/#-news"
 
   - title: "Research Interests"
-    url: "/#-research-interests"
+    url: "/joyce-ai/#-research-interests"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/joyce-ai/#-publications"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/joyce-ai/#-education"
 
   - title: "Research Experience"
-    url: "/#-research-experience"
+    url: "/joyce-ai/#-research-experience"

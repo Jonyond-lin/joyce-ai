@@ -6,7 +6,9 @@
 # Site Settings
 title                    : "Joyce"
 description              : "Private-link academic homepage for generative AI research"
-repository               : "joyce-research/joyce-research.github.io"
+url                      : "https://jonyond-lin.github.io/joyce-ai"
+baseurl                  : "/joyce-ai"
+repository               : "Jonyond-lin/joyce-ai"
 google_scholar_stats_enabled : false
 google_scholar_stats_use_cdn : false
 

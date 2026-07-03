@@ -16,24 +16,10 @@ news, research interests, publications, education, and research experience.
 
 ## Deploy With GitHub Pages
 
-1. Create a public GitHub repository named like `joyce-research.github.io` or
-   `<your-github-username>.github.io`.
-2. Push this repository to GitHub.
-3. In GitHub, open `Settings -> Pages`.
-4. Set source to `Deploy from a branch`.
-5. Select the `main` branch and `/ (root)`.
-6. Wait for GitHub Pages to publish the site.
-
-For a user site named `<your-github-username>.github.io`, the public URL will be:
+This repository is configured as a project site. The public URL will usually be:
 
 ```text
-https://<your-github-username>.github.io/
-```
-
-For a project site named `joyce-research`, the public URL will usually be:
-
-```text
-https://<your-github-username>.github.io/joyce-research/
+https://jonyond-lin.github.io/joyce-ai/
 ```
 
 ## Local Preview
