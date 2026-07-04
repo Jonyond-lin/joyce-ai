@@ -40,7 +40,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/latentsync.png' alt="LatentSync thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2]** **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](https://arxiv.org/abs/2412.09262)** \| [[project]](https://github.com/bytedance/LatentSync)
+**[1]** **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](https://arxiv.org/abs/2412.09262)** \| [[project]](https://github.com/bytedance/LatentSync)
 
 *arXiv preprint · open-source project ·* **Core Contributor**
 
@@ -51,7 +51,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-3'><div class='paper-box-image'><div><img src='images/mtvdiff.png' alt="MTVDiff thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3]** **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](#pub-3)**
+**[2]** **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](#pub-3)**
 
 *ECCV 2026 · CCF-B ·* **Co-first Author**
 
@@ -62,7 +62,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-4'><div class='paper-box-image'><div><img src='images/dynamem_paper.png' alt="DynaMem thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4]** **[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](#pub-4)**
+**[3]** **[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](#pub-4)**
 
 *ICML 2026 · CCF-A ·* **First Author**
 
@@ -73,7 +73,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-5'><div class='paper-box-image'><div><img src='images/fast_and_scalable.png' alt="Analytical diffusion thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5]** **[Fast and Scalable Analytical Diffusion](https://arxiv.org/abs/2602.16498)**
+**[4]** **[Fast and Scalable Analytical Diffusion](https://arxiv.org/abs/2602.16498)**
 
 *ICML 2026 · CCF-A ·* **Co-first Author**
 
@@ -84,7 +84,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-6'><div class='paper-box-image'><div><img src='images/omnishow.png' alt="OmniShow thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6]** **[OmniShow: Orchestrating Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804)**
+**[5]** **[OmniShow: Orchestrating Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804)**
 
 *ICML 2026 · CCF-A ·* **5th Author, Core Contributor**
 
@@ -95,7 +95,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-7'><div class='paper-box-image'><div><img src='images/identitystory.png' alt="IdentityStory thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[7]** **[IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation](https://arxiv.org/abs/2512.23519)**
+**[6]** **[IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation](https://arxiv.org/abs/2512.23519)**
 
 *AAAI 2026 · CCF-A ·* **Co-first Author**
 
@@ -106,7 +106,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-8'><div class='paper-box-image'><div><img src='images/fdp.png' alt="FDP thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[8]** **[FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI](https://arxiv.org/abs/2511.12899)**
+**[7]** **[FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI](https://arxiv.org/abs/2511.12899)**
 
 *AAAI 2026 · CCF-A ·* **Co-first Author**
 
@@ -117,7 +117,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/apoavatar.png' alt="ApoAvatar thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
+**[8]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
 
 *In Review ·* **First Author**
 
