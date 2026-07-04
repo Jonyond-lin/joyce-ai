@@ -15,6 +15,7 @@ Hi, I'm Joyce. I am a Ph.D. researcher in Data Science and Artificial Intelligen
 
 # 🔥 News
 
+- *2026.06*: 🎉 **MTVDiff** accepted in the ECCV 2026!
 - *2026.05*: 🎉 Three papers accepted in the ICML 2026. 
 - *2025.11*: 🎉 Two co-first author papers accepted in AAAI 2026!
 - *2025.10*: 🎉 We proposed **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors.
