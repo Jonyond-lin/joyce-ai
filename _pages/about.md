@@ -44,7 +44,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[1]** **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](https://arxiv.org/abs/2412.09262)** \| [[project]](https://github.com/bytedance/LatentSync)
 
-*arXiv preprint · open-source project ·* **Core Contributor**
+<em><span style="color:#1a3a6b">arXiv preprint</span> · <span style="color:#1a3a6b">open-source project</span></em> · <span style="color:#14532d;font-weight:700">Core Contributor</span>
 
 - A diffusion-based framework for high-fidelity lip-sync generation supervised by SyncNet for precise audio-visual alignment. The open-source project has <span style="color:#c0392b;font-weight:700">received 5k+ GitHub stars</span>.
 </div>
@@ -55,7 +55,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[2]** **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](#pub-3)**
 
-*ECCV 2026 · CCF-B ·* **Co-first Author**
+<em><span style="color:#1a3a6b">ECCV 2026</span> · <span style="color:#8b1a1a">CCF-B</span></em> · <span style="color:#14532d;font-weight:700">Co-first Author</span>
 
 - A multimodal latent diffusion framework that synergistically integrates depth and textual information for thermal-to-visible face translation while preserving identity characteristics.
 </div>
@@ -66,7 +66,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[3]** **[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](#pub-4)**
 
-*ICML 2026 · CCF-A ·* **First Author**
+<em><span style="color:#1a3a6b">ICML 2026</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">First Author</span>
 
 - A unified framework for long-horizon video generation that improves coherence, produces more consistent semantics, stronger temporal dynamics, and more stable appearance on long videos.
 </div>
@@ -77,7 +77,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[4]** **[Fast and Scalable Analytical Diffusion](https://arxiv.org/abs/2602.16498)**
 
-*ICML 2026 · CCF-A ·* **Co-first Author**
+<em><span style="color:#1a3a6b">ICML 2026</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">Co-first Author</span>
 
 - A training-free framework that decouples inference complexity from dataset size and uses a coarse-to-fine mechanism to dynamically pinpoint a compact Golden Subset for inference.
 </div>
@@ -88,7 +88,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[5]** **[OmniShow: Orchestrating Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804)**
 
-*ICML 2026 · CCF-A ·* **5th Author, Core Contributor**
+<em><span style="color:#1a3a6b">ICML 2026</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">5th Author, Core Contributor</span>
 
 - An end-to-end framework tailored for Human-Object Interaction video generation that orchestrates multiple multimodal conditions.
 </div>
@@ -99,7 +99,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[6]** **[IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation](https://arxiv.org/abs/2512.23519)**
 
-*AAAI 2026 · CCF-A ·* **Co-first Author**
+<em><span style="color:#1a3a6b">AAAI 2026</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">Co-first Author</span>
 
 - A framework for human-centric story generation that ensures consistent character identity across sequential images.
 </div>
@@ -110,7 +110,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[7]** **[FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI](https://arxiv.org/abs/2511.12899)**
 
-*AAAI 2026 · CCF-A ·* **Co-first Author**
+<em><span style="color:#1a3a6b">AAAI 2026</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">Co-first Author</span>
 
 - The first unsupervised anomaly detection method to leverage frequency-domain reconstruction for simultaneous pathology suppression and anatomical preservation in brain MRI.
 </div>
@@ -121,7 +121,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[8]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
 
-*In Review ·* **First Author**
+<em><span style="color:#1a3a6b">In Review</span></em> · <span style="color:#14532d;font-weight:700">First Author</span>
 
 - A diffusion-based avatar generation framework that ties speaking style to expressive motion dynamics through refocused audio-pose priors.
 </div>
@@ -132,7 +132,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[9]** **[SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency](https://arxiv.org/abs/2510.22994)**
 
-*NeurIPS 2025 · CCF-A ·* **Co-first Author, Project Leader**
+<em><span style="color:#1a3a6b">NeurIPS 2025</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">Co-first Author, Project Leader</span>
 
 - A scene-level generative framework that enhances narrative coherence through explicit scene planning and scene consistency.
 </div>
@@ -143,7 +143,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[10]** **[HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting](https://arxiv.org/abs/2412.03844)**
 
-*CVPR 2025 · CCF-A ·* **First Author**
+<em><span style="color:#1a3a6b">CVPR 2025</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">First Author</span>
 
 - A hybrid representation that models transient objects with per-image 2D Gaussians while maintaining 3D Gaussians for the static scene.
 </div>
@@ -154,7 +154,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[11]** **[Learning Neural Volumetric Pose Features for Camera Localization](https://arxiv.org/abs/2403.12800)**
 
-*ECCV 2024 · CCF-B ·* **First Author**
+<em><span style="color:#1a3a6b">ECCV 2024</span> · <span style="color:#8b1a1a">CCF-B</span></em> · <span style="color:#14532d;font-weight:700">First Author</span>
 
 - Introduces PoseMap, a neural volumetric pose feature that enhances camera localization by encapsulating the information between images and their associated camera poses.
 </div>
@@ -165,7 +165,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[12]** **[DiffTV: Identity-preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions](https://dl.acm.org/doi/10.1145/3664647.3680635)**
 
-*ACM MM 2024 · CCF-A ·* **First Author**
+<em><span style="color:#1a3a6b">ACM MM 2024</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">First Author</span>
 
 - A dual-stage image translation framework that transforms infrared faces into realistic visible-light faces while preserving identity characteristics.
 </div>
@@ -176,7 +176,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 **[13]** **[An End-to-End Scene Text Detector with Dynamic Attention](https://dl.acm.org/doi/10.1145/3551626.3564980)**
 
-*ACM MM 2023 · CCF-A ·* **First Author**
+<em><span style="color:#1a3a6b">ACM MM 2023</span> · <span style="color:#8b1a1a">CCF-A</span></em> · <span style="color:#14532d;font-weight:700">First Author</span>
 
 - A dynamic end-to-end framework that generates a deformable, dynamic view for multi-oriented and curved text instances.
 </div>
