@@ -35,9 +35,9 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 # 📝 Selected Publications
 
-<sub><em>This private-link version highlights my authorship role and contribution for each paper instead of listing full author identity details. Titles link to the paper page where available. Papers are ordered from most to least recent.</em></sub>
+<!-- <sub><em>This private-link version highlights my authorship role and contribution for each paper instead of listing full author identity details. Titles link to the paper page where available. Papers are ordered from most to least recent.</em></sub> -->
 
-<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/research-more.png' alt="ApoAvatar thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/apoavatar.png' alt="ApoAvatar thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
@@ -48,7 +48,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/latent-sync.png' alt="LatentSync thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/latentsync.png' alt="LatentSync thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2]** **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](https://arxiv.org/abs/2412.09262)** \| [[project]](https://github.com/bytedance/LatentSync)
@@ -59,7 +59,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><img src='images/diff-tv.png' alt="MTVDiff thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-3'><div class='paper-box-image'><div><img src='images/mtvdiff.png' alt="MTVDiff thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[3]** **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](#pub-3)**
@@ -70,7 +70,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><img src='images/dynamem.png' alt="DynaMem thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-4'><div class='paper-box-image'><div><img src='images/dynamem_paper.png' alt="DynaMem thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[4]** **[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](#pub-4)**
@@ -81,7 +81,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><img src='images/research-more.png' alt="Analytical diffusion thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-5'><div class='paper-box-image'><div><img src='images/fast_and_scalable.png' alt="Analytical diffusion thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[5]** **[Fast and Scalable Analytical Diffusion](https://arxiv.org/abs/2602.16498)**
@@ -92,7 +92,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><img src='images/dynamem.png' alt="OmniShow thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-6'><div class='paper-box-image'><div><img src='images/omnishow.png' alt="OmniShow thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[6]** **[OmniShow: Orchestrating Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804)**
@@ -103,7 +103,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><img src='images/scenedecorator.png' alt="IdentityStory thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-7'><div class='paper-box-image'><div><img src='images/identitystory.png' alt="IdentityStory thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[7]** **[IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation](https://arxiv.org/abs/2512.23519)**
@@ -114,7 +114,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><img src='images/research-more.png' alt="FDP thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-8'><div class='paper-box-image'><div><img src='images/fdp.png' alt="FDP thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[8]** **[FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI](https://arxiv.org/abs/2511.12899)**
@@ -136,7 +136,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><img src='images/hybridgs.png' alt="HybridGS thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-10'><div class='paper-box-image'><div><img src='images/hybridgs_paper.png' alt="HybridGS thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[10]** **[HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting](https://arxiv.org/abs/2412.03844)**
@@ -147,7 +147,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><img src='images/research-more.png' alt="PoseMap thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-11'><div class='paper-box-image'><div><img src='images/posemap.png' alt="PoseMap thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[11]** **[Learning Neural Volumetric Pose Features for Camera Localization](https://arxiv.org/abs/2403.12800)**
@@ -158,7 +158,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-12'><div class='paper-box-image'><div><img src='images/diff-tv.png' alt="Diff TV thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-12'><div class='paper-box-image'><div><img src='images/difftv.png' alt="Diff TV thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[12]** **[Diff TV: Identity-preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions](https://dl.acm.org/doi/10.1145/3664647.3680635)**
@@ -169,7 +169,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-13'><div class='paper-box-image'><div><img src='images/research-more.png' alt="Scene text detection thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-13'><div class='paper-box-image'><div><img src='images/scenetextdetector.png' alt="Scene text detection thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[13]** **[An End-to-End Scene Text Detector with Dynamic Attention](https://dl.acm.org/doi/10.1145/3551626.3564980)**
