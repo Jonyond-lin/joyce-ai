@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Joyce. I am a Ph.D. researcher in Data Science and Artificial Intelligence, working on multimodal generative AI. My recent work focuses on long video generation, audio-driven avatar animation, identity-preserving human synthesis, thermal-to-visible face translation.
+Hi, I'm Joyce. I am a Ph.D. researcher in Data Science and Artificial Intelligence, working on multimodal generative AI. My recent work focuses on long video generation, audio-driven avatar animation, identity-preserving human synthesis, thermal-to-visible face translation, and 3D scene representations.
 
 I care about building generation systems that are not only visually strong, but also structurally reliable: coherent over time, controllable through multimodal conditions, and robust enough for real-world creative and interactive applications.
 
@@ -18,12 +18,12 @@ This is a private-link academic homepage. Full identity details, formal CV, and 
 
 
 # 🔥 News
-- *2026.6*: **MTVDiff** was accepted by ECCV 2026!
-- *2026.5*: Submitted **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors.
-- *2026.5*: **DynaMem**, **Omnishow**, and **Fast and Scalable Analytical Diffusion** accepted in the ICML 2026!
-- *2025.11*: **IdentityStory**, and **FDP** accepted in AAAI 2026!
-- *2025.9*: **SceneDecorator** accepted in the NeurIPS 2025, focusing on scene planning and scene consistency for story generation.
-<!-- - *2025*: **HybridGS** accepted in the CVPR 2025 cycle, exploring hybrid 2D and 3D Gaussian representations. -->
+- *2026*: Submitted **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors.
+- *2026*: **DynaMem** accepted in the ICML 2026 cycle, focusing on consistent long video generation via hierarchical memory and motion priors.
+- *2026*: **Fast and Scalable Analytical Diffusion** accepted in the ICML 2026 cycle, proposing a training-free scalable analytical diffusion framework.
+- *2026*: **MTVDiff**, **IdentityStory**, and **FDP** accepted in the 2026 cycle across multimodal face translation, story generation, and medical anomaly detection.
+- *2025*: **SceneDecorator** accepted in the NeurIPS 2025 cycle, focusing on scene planning and scene consistency for story generation.
+- *2025*: **HybridGS** accepted in the CVPR 2025 cycle, exploring hybrid 2D and 3D Gaussian representations.
 
 
 # 🎯 Research Interests
@@ -34,17 +34,18 @@ My research centers on **multimodal generative AI**, especially models that comb
 - **Audio-driven Avatar Animation.** I work on speech-conditioned facial and body motion generation, with an emphasis on expressive motion and audio-visual alignment.
 - **Identity-preserving Human Generation.** I am interested in keeping human identity consistent across image sequences, stories, and cross-modal generation settings.
 - **Cross-spectrum Face Translation.** I explore thermal-to-visible face translation with multimodal conditions and identity-preserving objectives.
+- **3D Scene Representation.** I work on representations that separate transient objects from static scenes, including hybrid 2D and 3D Gaussian splatting.
 - **Efficient Diffusion.** I study scalable analytical diffusion and coarse-to-fine inference strategies that reduce complexity without losing generation quality.
 
 
 # 📝 Selected Publications
 
-<sub><em>This private-link version highlights my authorship role and contribution for each paper instead of listing full author identity details. Papers are ordered from most to least recent.</em></sub>
+<sub><em>This private-link version highlights my authorship role and contribution for each paper instead of listing full author identity details. Titles link to the paper page where available. Papers are ordered from most to least recent.</em></sub>
 
 <div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/research-more.png' alt="ApoAvatar thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1]** **ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors**
+**[1]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
 
 *NeurIPS 2026 · CCF-A · In Review ·* **First Author**
 
@@ -55,18 +56,18 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/latent-sync.png' alt="LatentSync thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[2]** **LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision** \| [[project]](https://github.com/bytedance/LatentSync)
+**[2]** **[LatentSync: Taming Audio-Conditioned Latent Diffusion Models for Lip Sync with SyncNet Supervision](https://arxiv.org/abs/2412.09262)** \| [[project]](https://github.com/bytedance/LatentSync)
 
 *arXiv preprint · open-source project ·* **Core Contributor**
 
-- A diffusion-based framework for high-fidelity lip-sync generation supervised by SyncNet for precise audio-visual alignment. The open-source project **has received 5k+ GitHub stars**.
+- A diffusion-based framework for high-fidelity lip-sync generation supervised by SyncNet for precise audio-visual alignment. The open-source project has received 5k+ GitHub stars.
 </div>
 </div>
 
 <div class='paper-box' id='pub-3'><div class='paper-box-image'><div><img src='images/diff-tv.png' alt="MTVDiff thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[3]** **MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation**
+**[3]** **[MTVDiff: Multimodal Conditional Latent Diffusion for Enhanced Thermal-to-Visible Face Translation](#pub-3)**
 
 *ECCV 2026 · CCF-B ·* **Co-first Author**
 
@@ -77,7 +78,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-4'><div class='paper-box-image'><div><img src='images/dynamem.png' alt="DynaMem thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[4]** **DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors**
+**[4]** **[DynaMem: Consistent Long Video Generation via Hierarchical Memory and Motion Priors](#pub-4)**
 
 *ICML 2026 · CCF-A ·* **First Author**
 
@@ -88,7 +89,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-5'><div class='paper-box-image'><div><img src='images/research-more.png' alt="Analytical diffusion thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[5]** **Fast and Scalable Analytical Diffusion**
+**[5]** **[Fast and Scalable Analytical Diffusion](https://arxiv.org/abs/2602.16498)**
 
 *ICML 2026 · CCF-A ·* **Co-first Author**
 
@@ -99,7 +100,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-6'><div class='paper-box-image'><div><img src='images/dynamem.png' alt="OmniShow thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[6]** **OmniShow: Orchestrating Multimodal Conditions for Human-Object Interaction Video Generation**
+**[6]** **[OmniShow: Orchestrating Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804)**
 
 *ICML 2026 · CCF-A ·* **5th Author, Core Contributor**
 
@@ -110,7 +111,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-7'><div class='paper-box-image'><div><img src='images/scenedecorator.png' alt="IdentityStory thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[7]** **IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation**
+**[7]** **[IdentityStory: Taming Your Identity-Preserving Generator for Human-Centric Story Generation](https://arxiv.org/abs/2512.23519)**
 
 *AAAI 2026 · CCF-A ·* **Co-first Author**
 
@@ -121,7 +122,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-8'><div class='paper-box-image'><div><img src='images/research-more.png' alt="FDP thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[8]** **FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI**
+**[8]** **[FDP: A Frequency-Decomposition Preprocessing Pipeline for Unsupervised Anomaly Detection in Brain MRI](https://arxiv.org/abs/2511.12899)**
 
 *AAAI 2026 · CCF-A ·* **Co-first Author**
 
@@ -132,7 +133,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-9'><div class='paper-box-image'><div><img src='images/scenedecorator.png' alt="SceneDecorator thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[9]** **SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency**
+**[9]** **[SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency](https://arxiv.org/abs/2510.22994)**
 
 *NeurIPS 2025 · CCF-A ·* **Co-first Author, Project Leader**
 
@@ -143,7 +144,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-10'><div class='paper-box-image'><div><img src='images/hybridgs.png' alt="HybridGS thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[10]** **HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**
+**[10]** **[HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting](https://arxiv.org/abs/2412.03844)**
 
 *CVPR 2025 · CCF-A ·* **First Author**
 
@@ -154,7 +155,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-11'><div class='paper-box-image'><div><img src='images/research-more.png' alt="PoseMap thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[11]** **Learning Neural Volumetric Pose Features for Camera Localization**
+**[11]** **[Learning Neural Volumetric Pose Features for Camera Localization](https://arxiv.org/abs/2403.12800)**
 
 *ECCV 2024 · CCF-B ·* **First Author**
 
@@ -165,7 +166,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-12'><div class='paper-box-image'><div><img src='images/diff-tv.png' alt="Diff TV thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[12]** **Diff TV: Identity-preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions**
+**[12]** **[Diff TV: Identity-preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions](https://dl.acm.org/doi/10.1145/3664647.3680635)**
 
 *ACM MM 2024 · CCF-A ·* **First Author**
 
@@ -176,7 +177,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-13'><div class='paper-box-image'><div><img src='images/research-more.png' alt="Scene text detection thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[13]** **An End-to-End Scene Text Detector with Dynamic Attention**
+**[13]** **[An End-to-End Scene Text Detector with Dynamic Attention](https://dl.acm.org/doi/10.1145/3551626.3564980)**
 
 *ACM MM 2023 · CCF-A ·* **First Author**
 
