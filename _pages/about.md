@@ -10,20 +10,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Joyce. I am a Ph.D. researcher in Data Science and Artificial Intelligence, working on multimodal generative AI. My recent work focuses on long video generation, audio-driven avatar animation, identity-preserving human synthesis, thermal-to-visible face translation, and 3D scene representations.
-
-I care about building generation systems that are not only visually strong, but also structurally reliable: coherent over time, controllable through multimodal conditions, and robust enough for real-world creative and interactive applications.
-
-This is a private-link academic homepage. Full identity details, formal CV, and references can be shared directly in the email or message thread where this page was provided.
+Hi, I'm Joyce. I am a Ph.D. researcher in Data Science and Artificial Intelligence, working on multimodal generative AI. My recent work focuses on long video generation, audio-driven avatar animation, identity-preserving human synthesis, thermal-to-visible face translation. I care about building generation systems that are not only visually strong, but also structurally reliable: coherent over time, controllable through multimodal conditions, and robust enough for real-world creative and interactive applications.
 
 
 # 🔥 News
-- *2026*: Submitted **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors.
-- *2026*: **DynaMem** accepted in the ICML 2026 cycle, focusing on consistent long video generation via hierarchical memory and motion priors.
-- *2026*: **Fast and Scalable Analytical Diffusion** accepted in the ICML 2026 cycle, proposing a training-free scalable analytical diffusion framework.
-- *2026*: **MTVDiff**, **IdentityStory**, and **FDP** accepted in the 2026 cycle across multimodal face translation, story generation, and medical anomaly detection.
-- *2025*: **SceneDecorator** accepted in the NeurIPS 2025 cycle, focusing on scene planning and scene consistency for story generation.
-- *2025*: **HybridGS** accepted in the CVPR 2025 cycle, exploring hybrid 2D and 3D Gaussian representations.
+
+- *2026.05*: Three papers accepted in the ICML 2026.
+- *2025.11*: Two co-first author papers accepted in AAAI 2026!
+- *2025.10*: We proposed **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors.
+- *2025.09*: **SceneDecorator** accepted in the NeurIPS 2025!
+- *2025.02*: **HybridGS** accepted in the CVPR 2025!
 
 
 # 🎯 Research Interests
@@ -34,7 +30,6 @@ My research centers on **multimodal generative AI**, especially models that comb
 - **Audio-driven Avatar Animation.** I work on speech-conditioned facial and body motion generation, with an emphasis on expressive motion and audio-visual alignment.
 - **Identity-preserving Human Generation.** I am interested in keeping human identity consistent across image sequences, stories, and cross-modal generation settings.
 - **Cross-spectrum Face Translation.** I explore thermal-to-visible face translation with multimodal conditions and identity-preserving objectives.
-- **3D Scene Representation.** I work on representations that separate transient objects from static scenes, including hybrid 2D and 3D Gaussian splatting.
 - **Efficient Diffusion.** I study scalable analytical diffusion and coarse-to-fine inference strategies that reduce complexity without losing generation quality.
 
 
@@ -193,7 +188,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 
 # 💻 Research Experience
-- *2025 - Present*, Research intern in audio-driven avatar animation at TikTok / ByteDance, working on expressive speech-conditioned facial and body motion generation.
-- *2024*, Research intern in cross-modal joint generation at AMD, developing multimodal synthesis methods that connect visual and auditory representations.
-- *2023 - 2024*, Research intern in image-to-image translation at Horizon Robotics, working on cross-spectrum facial synthesis.
-- *2021 - 2023*, Research intern in scene text detection at Tencent Hunyuan, working on robust detection and recognition in complex natural environments.
+- *2025.01 - 2026.01*, Research intern in audio-driven avatar animation at TikTok / ByteDance, working on expressive speech-conditioned facial and body motion generation.
+- *2024.07 - 2024.12*, Research intern in cross-modal joint generation at AMD, developing multimodal synthesis methods that connect visual and auditory representations.
+- *2024.01 - 2024.07*, Research intern in image-to-image translation at Horizon Robotics, working on cross-spectrum facial synthesis.
+- *2021.12 - 2023.03*, Research intern in scene text detection at Tencent Hunyuan, working on robust detection and recognition in complex natural environments.
