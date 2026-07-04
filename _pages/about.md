@@ -59,7 +59,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 *arXiv preprint · open-source project ·* **Core Contributor**
 
-- A diffusion-based framework for high-fidelity lip-sync generation supervised by SyncNet for precise audio-visual alignment. The open-source project has received 5k+ GitHub stars.
+- A diffusion-based framework for high-fidelity lip-sync generation supervised by SyncNet for precise audio-visual alignment. The open-source project **has received 5k+ GitHub stars**.
 </div>
 </div>
 
