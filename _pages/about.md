@@ -15,11 +15,11 @@ Hi, I'm Joyce. I am a Ph.D. researcher in Data Science and Artificial Intelligen
 
 # 🔥 News
 
-- *2026.05*: Three papers accepted in the ICML 2026. 🎉
-- *2025.11*: Two co-first author papers accepted in AAAI 2026! 🎉
-- *2025.10*: We proposed **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors. 🎉
-- *2025.09*: **SceneDecorator** accepted in the NeurIPS 2025! 🎉
-- *2025.02*: **HybridGS** accepted in the CVPR 2025! 🎉
+- *2026.05*: 🎉 Three papers accepted in the ICML 2026. 
+- *2025.11*: 🎉 Two co-first author papers accepted in AAAI 2026!
+- *2025.10*: 🎉 We proposed **ApoAvatar**, an expressive audio-driven avatar animation project with refocused audio-pose priors.
+- *2025.09*: 🎉 **SceneDecorator** accepted in the NeurIPS 2025!
+- *2025.02*: 🎉 **HybridGS** accepted in the CVPR 2025!
 
 
 # 🎯 Research Interests
@@ -29,24 +29,13 @@ My research centers on **multimodal generative AI**, especially models that comb
 - **Long Video Generation.** I study hierarchical memory, motion priors, temporal dynamics, and appearance consistency for long-horizon video synthesis. [[DynaMem]](#pub-4) [[OmniShow]](#pub-6)
 - **Audio-driven Avatar Animation.** I work on speech-conditioned facial and body motion generation, with an emphasis on expressive motion and audio-visual alignment. [[ApoAvatar]](#pub-1) [[LatentSync]](#pub-2)
 - **Identity-preserving Human Generation.** I am interested in keeping human identity consistent across image sequences, stories, and cross-modal generation settings. [[IdentityStory]](#pub-7) [[SceneDecorator]](#pub-9)
-- **Cross-spectrum Face Translation.** I explore thermal-to-visible face translation with multimodal conditions and identity-preserving objectives. [[MTVDiff]](#pub-3) [[Diff TV]](#pub-12)
+- **Cross-spectrum Face Translation.** I explore thermal-to-visible face translation with multimodal conditions and identity-preserving objectives. [[MTVDiff]](#pub-3) [[DiffTV]](#pub-12)
 - **Efficient Diffusion.** I study scalable analytical diffusion and coarse-to-fine inference strategies that reduce complexity without losing generation quality. [[Fast and Scalable Analytical Diffusion]](#pub-5)
 
 
 # 📝 Selected Publications
 
 <!-- <sub><em>This private-link version highlights my authorship role and contribution for each paper instead of listing full author identity details. Titles link to the paper page where available. Papers are ordered from most to least recent.</em></sub> -->
-
-<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/apoavatar.png' alt="ApoAvatar thumbnail" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[1]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
-
-*In Review ·* **First Author**
-
-- A diffusion-based avatar generation framework that ties speaking style to expressive motion dynamics through refocused audio-pose priors.
-</div>
-</div>
 
 <div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/latentsync.png' alt="LatentSync thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -125,6 +114,17 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
+<div class='paper-box' id='pub-1'><div class='paper-box-image'><div><img src='images/apoavatar.png' alt="ApoAvatar thumbnail" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[1]** **[ApoAvatar: Expressive Audio-Driven Avatar Generation via Refocused Audio-Pose Priors](https://openreview.net/forum?id=9fw3g2jFbc)**
+
+*In Review ·* **First Author**
+
+- A diffusion-based avatar generation framework that ties speaking style to expressive motion dynamics through refocused audio-pose priors.
+</div>
+</div>
+
 <div class='paper-box' id='pub-9'><div class='paper-box-image'><div><img src='images/scenedecorator_paper.png' alt="SceneDecorator thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -161,7 +161,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 <div class='paper-box' id='pub-12'><div class='paper-box-image'><div><img src='images/difftv.png' alt="Diff TV thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[12]** **[Diff TV: Identity-preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions](https://dl.acm.org/doi/10.1145/3664647.3680635)**
+**[12]** **[DiffTV: Identity-preserved Thermal-to-Visible Face Translation via Feature Alignment and Dual-Stage Conditions](https://dl.acm.org/doi/10.1145/3664647.3680635)**
 
 *ACM MM 2024 · CCF-A ·* **First Author**
 
