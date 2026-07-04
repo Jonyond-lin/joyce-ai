@@ -33,6 +33,8 @@ My research centers on **multimodal generative AI**, especially models that comb
 - **Efficient Diffusion.** I study scalable analytical diffusion and coarse-to-fine inference strategies that reduce complexity without losing generation quality. [[Fast and Scalable Analytical Diffusion]](#pub-5)
 
 
+<span class='anchor' id='publications'></span>
+
 # 📝 Selected Publications
 
 <sub><strong>As first / co-first author:</strong> CVPR ×1 · ICML ×2 · NeurIPS ×1 · ECCV ×2 · AAAI ×2 · ACM MM ×2 — 10 accepted papers.</sub>
