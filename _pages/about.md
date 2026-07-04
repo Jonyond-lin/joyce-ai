@@ -35,7 +35,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 # 📝 Selected Publications
 
-<!-- <sub><em>This private-link version highlights my authorship role and contribution for each paper instead of listing full author identity details. Titles link to the paper page where available. Papers are ordered from most to least recent.</em></sub> -->
+<sub><strong>As first / co-first author:</strong> CVPR ×1 · ICML ×2 · NeurIPS ×1 · ECCV ×2 · AAAI ×2 · ACM MM ×2 — 10 accepted papers.</sub>
 
 <div class='paper-box' id='pub-2'><div class='paper-box-image'><div><img src='images/latentsync.png' alt="LatentSync thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
