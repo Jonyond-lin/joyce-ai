@@ -5,7 +5,7 @@
 
 # Site Settings
 title                    : "Joyce"
-description              : "Private-link academic homepage for generative AI research"
+description              : ""
 url                      : "https://jonyond-lin.github.io/joyce-ai"
 baseurl                  : "/joyce-ai"
 repository               : "Jonyond-lin/joyce-ai"
@@ -24,12 +24,12 @@ baidu_site_verification  :
 author:
   name             : "Joyce"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D. Researcher, Generative AI."
+  bio              : "Ph.D. Researcher in Monash, Generative AI."
   location         : "Melbourne, Australia"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "jingyu.lin@monash.edu"
   researchgate     :
   uri              :
   bitbucket        :
