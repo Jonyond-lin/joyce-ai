@@ -125,7 +125,7 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><img src='images/scenedecorator.png' alt="SceneDecorator thumbnail" width="100%"></div></div>
+<div class='paper-box' id='pub-9'><div class='paper-box-image'><div><img src='images/scenedecorator_paper.png' alt="SceneDecorator thumbnail" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[9]** **[SceneDecorator: Towards Scene-Oriented Story Generation with Scene Planning and Scene Consistency](https://arxiv.org/abs/2510.22994)**
