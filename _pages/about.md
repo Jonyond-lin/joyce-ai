@@ -191,7 +191,39 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 
 # 💻 Research Experience
-- *2025.01 - 2026.01*, Research intern in audio-driven avatar animation at TikTok / ByteDance, working on expressive speech-conditioned facial and body motion generation.
-- *2024.07 - 2024.12*, Research intern in cross-modal joint generation at AMD, developing multimodal synthesis methods that connect visual and auditory representations.
-- *2024.01 - 2024.07*, Research intern in image-to-image translation at Horizon Robotics, working on cross-spectrum facial synthesis.
-- *2021.12 - 2023.03*, Research intern in scene text detection at Tencent Hunyuan, working on robust detection and recognition in complex natural environments.
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://commons.wikimedia.org/wiki/Special:FilePath/ByteDance_logo_English.svg' alt="ByteDance logo" style="max-width:100%;max-height:64px;height:auto;display:block;margin:0 auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Audio-driven Avatar Animation**
+
+- Research intern working on expressive speech-conditioned facial and body motion generation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://commons.wikimedia.org/wiki/Special:FilePath/AMD_Logo.svg' alt="AMD logo" style="max-width:100%;max-height:64px;height:auto;display:block;margin:0 auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cross-Modal Joint Generation**
+
+- Research intern developing multimodal synthesis methods that connect visual and auditory representations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/logo-horizon.png' alt="Horizon Robotics logo" style="max-width:100%;max-height:64px;height:auto;display:block;margin:0 auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Image-to-Image Translation**
+
+- Research intern working on cross-spectrum facial synthesis (thermal-to-visible face translation).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='https://commons.wikimedia.org/wiki/Special:FilePath/Tencent_logo_2017.svg' alt="Tencent logo" style="max-width:100%;max-height:64px;height:auto;display:block;margin:0 auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scene Text Detection**
+
+- Research intern working on robust text detection and recognition in complex natural environments.
+</div>
+</div>
