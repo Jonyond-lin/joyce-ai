@@ -192,8 +192,8 @@ My research centers on **multimodal generative AI**, especially models that comb
 
 # 💻 Research Experience
 
-<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:96px;justify-content:center;"><div><img src='https://www.google.com/s2/favicons?domain=bytedance.com&sz=128' alt="ByteDance logo" style="width:60px;height:60px;object-fit:contain;box-shadow:none;background:transparent;"></div></div>
-<div class='paper-box-text' markdown="1" style="max-width:78%;padding-left:1.5em;">
+<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:30%;justify-content:center;"><div><img src='https://commons.wikimedia.org/wiki/Special:FilePath/ByteDance_logo_English.svg' alt="ByteDance logo" style="width:100%;max-width:170px;height:auto;box-shadow:none;background:transparent;display:block;"></div></div>
+<div class='paper-box-text' markdown="1" style="max-width:65%;padding-left:1.5em;">
 
 **Audio-driven Avatar Animation**
 
@@ -201,8 +201,8 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:96px;justify-content:center;"><div><img src='https://www.google.com/s2/favicons?domain=amd.com&sz=128' alt="AMD logo" style="width:60px;height:60px;object-fit:contain;box-shadow:none;background:transparent;"></div></div>
-<div class='paper-box-text' markdown="1" style="max-width:78%;padding-left:1.5em;">
+<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:30%;justify-content:center;"><div><img src='https://commons.wikimedia.org/wiki/Special:FilePath/AMD_Logo.svg' alt="AMD logo" style="width:100%;max-width:170px;height:auto;box-shadow:none;background:transparent;display:block;"></div></div>
+<div class='paper-box-text' markdown="1" style="max-width:65%;padding-left:1.5em;">
 
 **Cross-Modal Joint Generation**
 
@@ -210,8 +210,8 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:96px;justify-content:center;"><div><img src='https://www.google.com/s2/favicons?domain=horizon.auto&sz=128' alt="Horizon Robotics logo" style="width:60px;height:60px;object-fit:contain;box-shadow:none;background:transparent;"></div></div>
-<div class='paper-box-text' markdown="1" style="max-width:78%;padding-left:1.5em;">
+<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:30%;justify-content:center;"><div><img src='images/logo-horizon.png' alt="Horizon Robotics logo" style="width:100%;max-width:170px;height:auto;box-shadow:none;background:transparent;display:block;"></div></div>
+<div class='paper-box-text' markdown="1" style="max-width:65%;padding-left:1.5em;">
 
 **Image-to-Image Translation**
 
@@ -219,8 +219,8 @@ My research centers on **multimodal generative AI**, especially models that comb
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:96px;justify-content:center;"><div><img src='https://www.google.com/s2/favicons?domain=tencent.com&sz=128' alt="Tencent logo" style="width:60px;height:60px;object-fit:contain;box-shadow:none;background:transparent;"></div></div>
-<div class='paper-box-text' markdown="1" style="max-width:78%;padding-left:1.5em;">
+<div class='paper-box'><div class='paper-box-image' style="min-width:auto;max-width:30%;justify-content:center;"><div><img src='https://commons.wikimedia.org/wiki/Special:FilePath/Tencent_logo_2017.svg' alt="Tencent logo" style="width:100%;max-width:170px;height:auto;box-shadow:none;background:transparent;display:block;"></div></div>
+<div class='paper-box-text' markdown="1" style="max-width:65%;padding-left:1.5em;">
 
 **Scene Text Detection**
 
